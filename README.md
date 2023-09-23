@@ -2,7 +2,7 @@
 
 [![r3ps4J's GitHub stats](https://github-readme-stats-r3ps4j.vercel.app/api?username=r3ps4j&count_private=true&show_icons=true&hide=issues&theme=github_dark&hide_border=true)](https://github.com/r3ps4j)
 
-[![Most used languages](https://github-readme-stats-r3ps4j.vercel.app/api/top-langs/?username=r3ps4j&theme=github_dark&hide_border=true&layout=compact&exclude_repo=github-readme-stats,FXrace_server-data,FXproject_server-data)](https://github.com/r3ps4j)
+[![Most used languages](https://github-readme-stats-r3ps4j.vercel.app/api/top-langs/?username=r3ps4j&theme=github_dark&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=github-readme-stats,FXrace_server-data,FXproject_server-data)](https://github.com/r3ps4j)
 
 <!--
 **r3ps4J/r3ps4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
